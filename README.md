@@ -3,7 +3,7 @@
 - 🤖 Building AI agents with LangGraph & Azure OpenAI  
 - 🌐 Interested in backend systems, applied AI & cloud tech  
 - 🚀 Transitioning into AI Engineering
-- Additonal Interests: 🏠 Home Automation, 🖨️ 3D Printing, 🎮 Video Games
+- Additional Interests: 🏠 Home Automation, 🖨️ 3D Printing, 🎮 Video Games
 
 <!---
 itsmariodias/itsmariodias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
