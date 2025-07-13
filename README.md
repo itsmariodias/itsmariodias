@@ -1,8 +1,8 @@
-- 👋 Hello there! I’m @itsmariodias
-- 🌟 Specialize in Java and Python.
-- 💼 Currently working as a Software Engineer.
-- 👀 Interested in Deep Learning and Cloud Computing.
-
+- 👋 Hi, I’m @itsmariodias  
+- 💼 SDE II at UBS | Java, Spring, Databricks, Python  
+- 🤖 Building AI agents with LangGraph & Azure OpenAI  
+- 🌐 Interested in backend systems, applied AI & cloud tech  
+- 🚀 Transitioning into AI Engineering
 
 <!---
 itsmariodias/itsmariodias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
